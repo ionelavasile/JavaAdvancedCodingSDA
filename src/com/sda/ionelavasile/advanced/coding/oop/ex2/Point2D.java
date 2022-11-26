@@ -1,4 +1,4 @@
-package com.sda.ionelavasile.advanced.coding.oop;
+package com.sda.ionelavasile.advanced.coding.oop.ex2;
 
 /**
  * Create a Point2D class with fields double x, double y, getters, setters and constructor. Then create a Circle class that will have a constructor:
